@@ -77,7 +77,7 @@ if button:
         "transport" : transport,
         "extra_information": extra_information
     }
-    response = req.post("http://localhost:8000/plan_trip", json = payload)
+    response = req.post("https://agentic-ai-travel-planner-x28s.onrender.com/plan_trip", json = payload)
     if response.status_code != 200:
         st.error(f"Backend Error: {response.status_code}")
         st.code(response.text)
