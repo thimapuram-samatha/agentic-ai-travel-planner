@@ -2,6 +2,12 @@
 
 An AI-powered travel planner that generates personalized itineraries based on your destination, budget, interests, travel style, and preferences.
 
+## 🚀 Live Demo
+
+👉 **[Try the AI Travel Planner](https://ai-powered-travel-planner-0902.streamlit.app)**
+
+The application is deployed using Streamlit for the frontend and Render for the FastAPI backend.
+
 ## ✨ Features
 
 - 🌍 Personalized travel itineraries
@@ -13,6 +19,12 @@ An AI-powered travel planner that generates personalized itineraries based on yo
 - 🎯 Interest-based travel planning
 - 💡 Useful travel tips
 - 🤖 AI-generated travel plans
+
+## 🔗 Project Links
+
+- 🌐 **Live Application:** [AI Travel Planner](https://ai-powered-travel-planner-0902.streamlit.app)
+- ⚙️ **Backend API:** [FastAPI Backend](https://agentic-ai-travel-planner-x28s.onrender.com/)
+- 💻 **GitHub Repository:** [Agentic AI Travel Planner](https://github.com/thimapuram-samatha/agentic-ai-travel-planner)
 
 ## 🛠️ Technologies Used
 
@@ -40,7 +52,22 @@ AGENTIC_AI_TRAVEL_PLANNER
 ├── .gitignore
 └── README.md
 
+## 🌐 Deployment
+
+The application is deployed using separate frontend and backend services.
+
+## Frontend
+- Streamlit Community Cloud
+- Streamlit application
+- `frontend/app.py`
+
+## Backend
+- Render
+- FastAPI application
+- `backend/main.py`
+
 ## 🔄 How It Works
+##Architecture
 
 ```text
 User
@@ -113,7 +140,6 @@ GROQ_API_KEY
 
 ## 📌 Future Improvements
 
-- 🌐 Deploy the application online
 - 🗺️ Add maps and location-based recommendations
 - ☀️ Add weather information
 - ✈️ Add real-time travel information
