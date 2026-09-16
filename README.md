@@ -1,3 +1,10 @@
+# Hi 👋, I'm Samatha Thimapuram
+
+## 🐍 Python Developer | 🤖 AI Enthusiast
+
+I'm learning Python Full Stack Development with AI and building practical, AI-powered applications.
+
+## 🚀 Featured Project
 # 🌍 Agentic AI Travel Planner
 
 An AI-powered travel planner that generates personalized itineraries based on your destination, budget, interests, travel style, and preferences.
@@ -147,8 +154,4 @@ GROQ_API_KEY
 - 💳 Improve budget tracking
 - 🤖 Add more AI travel agents
 
-## 👩‍💻 Author
-
-**Thimapuram Samatha**
-
-Python Full Stack Developer with AI — Learning & Building AI-powered applications.
+⭐ Thanks for visiting my profile!
